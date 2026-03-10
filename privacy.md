@@ -101,7 +101,7 @@ Dado que Arka no recopila datos personales ni mantiene servidores de almacenamie
 
 ## 8. Uso por Menores
 
-La aplicación no está dirigida a menores de **13 años** y no recopila conscientemente información personal de menores de edad. Si eres padre o tutor y crees que tu hijo ha proporcionado información personal, contáctanos para que podamos tomar las medidas necesarias.
+La aplicación no está dirigida a menores de **18 años** y no recopila conscientemente información personal de menores de edad. Si eres padre o tutor y crees que tu hijo ha proporcionado información personal, contáctanos para que podamos tomar las medidas necesarias.
 
 ---
 
