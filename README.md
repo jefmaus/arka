@@ -59,7 +59,7 @@ Como valoramos tu privacidad al máximo, no sincronizamos datos automáticamente
 ---
 
 ## ☕ Apóyame
-Si Arka te ha ayudado a mejorar tus finanzas y quieres apoyarme para seguir creando y mejorando productos de alta calidad, ¡puedes invitarnos a un café! Cualquier aporte nos impulsa a seguir innovando.
+Si Arka te ha ayudado a mejorar tus finanzas y quieres apoyarme para seguir creando y mejorando productos de alta calidad, ¡puedes invitarme a un café! Cualquier aporte nos impulsa a seguir innovando.
 
 * **Llave Bre-B:** `@jefmaus`
 * **PayPal:** [paypal.me/byguencom](https://paypal.me/byguencom)
